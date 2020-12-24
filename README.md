@@ -4,9 +4,7 @@
 
 - Postman : https://www.postman.com/downloads/
  
-- [1] Download File Postman : https://github.com/thepnatee/tu_apis_developers
-
-- [2] หรือ Import URL : https://www.getpostman.com/collections/cf0c7d0289f17005822b
+- Import URL : https://www.getpostman.com/collections/cf0c7d0289f17005822b
 
 - ปล. เมนู Import อยู่ซ้ายบน จะเลือก Upload ไฟล์โยนง่ายๆใช้ [1] จะเอา URL แปะง่ายกว่าใช้ [2]
 
