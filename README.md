@@ -4,7 +4,7 @@
 
 - Postman : https://www.postman.com/downloads/
  
-- Import URL : https://www.getpostman.com/collections/cf0c7d0289f17005822b
+- Import URL : https://www.getpostman.com/collections/0dc0d2de05a5755491b3
 
 - ปล. เมนู Import อยู่ซ้ายบน จะเลือก Upload ไฟล์โยนง่ายๆใช้ [1] จะเอา URL แปะง่ายกว่าใช้ [2]
 
